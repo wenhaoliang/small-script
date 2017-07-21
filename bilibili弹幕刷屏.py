@@ -10,7 +10,7 @@ from time import sleep
 import sys
 import ctypes.wintypes
 
-
+    
 EXIT = False
 def mouse_click(x=None,y=None):
 	if not x is None and not y is None:
